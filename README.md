@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tusharrbx
-- 👀 I’m interested in SoftwareDev{destop/mobile}, Machine Learning, AI.
+- 👀 I’m interested in SoftwareDev{destop/mobile}, Machine Learning, AI, Linux.
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tusharranjanbehera66@yahoo.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
